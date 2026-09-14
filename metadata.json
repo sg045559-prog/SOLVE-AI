@@ -1,0 +1,6 @@
+{
+  "name": "SOLVE AI",
+  "description": "An intelligent student homework, math, and academic reasoning assistant featuring green leaf aesthetics, voice input, image solving, and study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
